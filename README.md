@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## :computer: I'am currently doing an apprenticeship at Jobtrek 
-## 🔭 I’m currently working on a login page created with PHP
+## 🌱 I’m currently learning React
 ## ⌨ I’m working on a JavaScript React Framework project  
-## 📫 How to reach me: nabila.furmuly@jobtrek.ch
+## ✉ How to reach me: nabila.furmuly@jobtrek.ch
 
 <!--
 **Furmuly/Furmuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
