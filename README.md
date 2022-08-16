@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## :computer: I'am currently doing an apprenticeship at Jobtrek 
 ## 🔭 I’m currently working on a login page created with PHP
-## 🌱 I’m currently learning PHP/PDO
+## I’m working on a JavaScript React Framework project  
 ## 📫 How to reach me: nabila.furmuly@jobtrek.ch
 
 <!--
