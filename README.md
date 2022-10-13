@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## :computer: I'am currently doing an apprenticeship at Jobtrek 
-## 🌱 I’m currently learning React
-## ⌨ I’m working on a JavaScript React Framework project  
+## 🌱 I’m currently learning laravel
+## ⌨ I’m working on a E-commerce project built with laravel   
 ## ✉ How to reach me: nabila.furmuly@jobtrek.ch
 
 <!--
