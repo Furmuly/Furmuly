@@ -1,4 +1,5 @@
 ### Hi there 👋
+<- As you can see right there my name is Nabila, I am a young IT developer who has step into the world of coding not long ago, I love to discover and learn new concepts and coding languages and am trying every day to get better at what I love. 
 ## :computer: I'am currently doing an apprenticeship at Jobtrek 
 ## 🌱 I’m currently learning laravel
 ## ⌨ I’m working on a E-commerce project built with laravel   
