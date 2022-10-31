@@ -1,5 +1,6 @@
 ### Hi there 👋
-⬅️ As you can see right there my name is Nabila, I am a young IT developer who has step into the world of coding not long ago,I am in second year of IT application development apprenticeship at jobtrek, I love to discover and learn new concepts and coding languages and I am trying every day to get better at what I love to do. 
+⬅️ As you can see right here my name is Nabila, I am a young IT developer who has steped into the world of coding not long ago, I am doing an apprenticeship at JobTrek and I am now in second year of IT application development apprenticeship at jobtrek, I love to discovering and learning new concepts and I also have a passion for coding languages. My main objective is to get better every day at what I do and love.
+ 
 ## :computer: I'am doing an apprenticeship at Jobtrek 
 ## 🌱 Currently learning laravel
 ## :package: I’m working on a E-commerce project built with laravel   
